@@ -3,6 +3,6 @@ es:
   button_authorchange: "Cambiar Autor"
   label_authorchange: "Autor actual es "
   head_authorchange: "Cambiar Autor actual a "
-  label_authorchange_setlog: "log in issue history? "
-  label_authorchange_setlog_description: "Changes will be logged in history of that issue"
+  label_authorchange_setlog: "recordar en la historial de la petición? "
+  label_authorchange_setlog_description: "Los cambios se registrarán en la historial de esa petición"
   
